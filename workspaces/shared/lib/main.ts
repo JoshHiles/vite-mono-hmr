@@ -1,0 +1,1 @@
+export {AComponent} from "./AComponent"
